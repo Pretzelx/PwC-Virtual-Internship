@@ -16,7 +16,8 @@ Recognizing the importance of staying ahead in this digital revolution, I've dec
 - Average speed of answer
 - Agent’s performance quadrant
 The creation of this dashboard not only allowed me to explore the dataset but also enabled me to gain practical experience in visualizing and interpreting call center trends effectively.
-### Task 3 - Curstomer Retention Analysis 
+### Task 3 - Customer Retention Analysis 
+
 In Task 3, my focus shifted towards Customer Retention Analysis. This task required defining appropriate KPIs tailored to the dataset, followed by the creation of a dashboard specifically designed for the retention manager. The defined KPIs aimed to track the customer retention rate effectively, ensuring a proactive approach towards retaining valuable clientele. Furthermore, I elucidated the insights derived from the dashboard and provided actionable suggestions to enhance customer retention strategies.
 ### Task 4 - Diversity & Inclusion
 Task 4 revolved around Diversity & Inclusion, particularly examining gender balance within the executive suite. I undertook the challenge of measuring and analyzing gender representation, culminating in the identification of KPIs based on the dataset. These KPIs encompassed metrics such as the number of men and women in executive roles, turnover rates, promotion percentages, and performance ratings.
